@@ -1,0 +1,84 @@
+{
+  "lessons": [
+    {
+      "id": 1,
+      "subject": "Math",
+      "location": "London",
+      "price": 100,
+      "space": 5,
+      "image": "icon1.png"
+    },
+    {
+      "id": 2,
+      "subject": "English",
+      "location": "Oxford",
+      "price": 90,
+      "space": 8,
+      "image": "icon2.png"
+    },
+    {
+      "id": 3,
+      "subject": "Chemistry",
+      "location": "Bristol",
+      "price": 80,
+      "space": 4,
+      "image": "icon3.png"
+    },
+    {
+      "id": 4,
+      "subject": "Physics",
+      "location": "York",
+      "price": 200,
+      "space": 3,
+      "image": "icon1.png"
+    },
+    {
+      "id": 5,
+      "subject": "Music",
+      "location": "London",
+      "price": 120,
+      "space": 10,
+      "image": "icon2.png"
+    },
+    {
+      "id": 6,
+      "subject": "Dancing",
+      "location": "Oxford",
+      "price": 80,
+      "space": 12,
+      "image": "icon3.png"
+    },
+    {
+      "id": 7,
+      "subject": "Computer",
+      "location": "York",
+      "price": 100,
+      "space": 7,
+      "image": "icon1.png"
+    },
+    {
+      "id": 8,
+      "subject": "Song",
+      "location": "London",
+      "price": 100,
+      "space": 5,
+      "image": "icon2.png"
+    },
+    {
+      "id": 9,
+      "subject": "Marketing",
+      "location": "Bristol",
+      "price": 90,
+      "space": 12,
+      "image": "icon3.png"
+    },
+    {
+      "id": 10,
+      "subject": "Sport",
+      "location": "London",
+      "price": 140,
+      "space": 9,
+      "image": "icon1.png"
+    }
+  ]
+}
